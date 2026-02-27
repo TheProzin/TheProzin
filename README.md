@@ -27,3 +27,8 @@
 ### Veja todas as minhas conquistas
 [![Credly](https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/fabio-telles-justino)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/TheProzin?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/TheProzin">
+</picture>
+
