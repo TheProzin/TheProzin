@@ -26,4 +26,5 @@
 
 ### Veja todas as minhas conquistas
 [![Credly](https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/fabio-telles-justino)
+![](https://komarev.com/ghpvc/?username=TheProzin&abbreviated=true)
 
